@@ -1,0 +1,1 @@
+# connection-hasura-with-nextjs
